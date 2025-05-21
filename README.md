@@ -1,10 +1,12 @@
 # CorrStarApp
 
-CorrStarApp es una aplicación multiplataforma que permite:
+CorrStarApp es una aplicación estadística multiplataforma desarrollada como proyecto final del curso de Modelos de Regresión. Está diseñada para facilitar el análisis de datos y la construcción de modelos predictivos de forma intuitiva, automatizada y visual.
 
-- Realizar análisis estadísticos de correlación (Pearson, Spearman, Kendall)  
-- Construir modelos predictivos usando regresión lineal, regresión logística y análisis discriminante lineal (LDA)  
-- Cargar y procesar grandes archivos de datos (hasta 1 millón de registros)  
-- Visualizar resultados mediante gráficos interactivos y métricas estadísticas automáticamente  
-- Codificar variables categóricas y validar los datos de entrada de forma automática  
-- Ofrecer una interfaz intuitiva y visual para facilitar el análisis estadístico tanto a estudiantes como a profesionales
+## ¿Qué hace CorrStarApp?
+
+- Realiza análisis de correlación (Pearson, Spearman, Kendall)  
+- Construye modelos predictivos: regresión lineal, regresión logística y análisis discriminante lineal (LDA)  
+- Procesa grandes volúmenes de datos (hasta 1 millón de registros)  
+- Genera visualizaciones automáticas: gráficos de dispersión, curvas ROC, proyecciones LDA, entre otros  
+- Codifica variables categóricas y valida los datos automáticamente  
+- Brinda una interfaz clara y amigable para usuarios con distintos niveles de experiencia estadística
