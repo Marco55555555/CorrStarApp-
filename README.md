@@ -1,6 +1,6 @@
 # CorrStarApp
 
-CorrStarApp es una aplicación estadística multiplataforma desarrollada como proyecto final del curso de Modelos de Regresión. Está diseñada para facilitar el análisis de datos y la construcción de modelos predictivos de forma intuitiva, automatizada y visual.
+CorrStarApp es una aplicación estadística multiplataforma diseñada para facilitar el análisis de datos y la construcción de modelos predictivos de forma intuitiva, automatizada y visual.
 
 ## ¿Qué hace CorrStarApp?
 
