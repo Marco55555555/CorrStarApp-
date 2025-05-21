@@ -11,6 +11,6 @@ CorrStarApp es una aplicación estadística multiplataforma diseñada para facil
 - Codifica variables categóricas y valida los datos automáticamente  
 - Brinda una interfaz clara y amigable para usuarios con distintos niveles de experiencia estadística
 
----
+
 
 **Autores:** Cristian Vega, Marco Jiménez
